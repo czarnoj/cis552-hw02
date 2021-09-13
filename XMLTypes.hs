@@ -3,8 +3,6 @@
 
 -- DO NOT MODIFY THIS FILE
 
-{-# OPTIONS_GHC -Wall #-}
-
 module XMLTypes where
 
 -- | A simplified datatype for storing XML

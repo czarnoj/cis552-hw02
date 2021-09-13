@@ -2,8 +2,6 @@
 -- CIS 552, University of Pennsylvania
 
 -- DO NOT MODIFY THIS FILE
-
-{-# OPTIONS_GHC -Wall #-}
 module Play where 
 
 import XMLTypes 

@@ -5,23 +5,17 @@ HW 2 - Fold, Datatypes and Trees
 *Note: this homework is significantly longer than HW #1 and covers material
 from [HigherOrder](/lectures/stub/01-intro/HigherOrder.html) and
 [Datatypes](/lectures/stub/02-trees/Datatypes.html).*
--}
 
--- uncomment this line if you found it useful
--- {-# OPTIONS_GHC -fdefer-type-errors #-}
-
-{-
 The goal of this homework assignment is practice with fold, user-defined
 datatypes and trees in Haskell.
 
 This homework is composed of three files: two support files
-[`XMLTypes.hs`](XMLTypes.hs) and [`Play.hs`](Play.hs), plus the main part
-of the assignment (this file). For testing, you will also need the
-file [`sample.html`](sample.html).
+[`XMLTypes.hs`](XMLTypes.hs) and [`Play.hs`](Play.hs), plus the main part of
+the assignment (this file). For testing, you will also need the file
+[`sample.html`](sample.html). To complete the homework, you should edit
+*only* the file [`Main.hs`](Main.hs), and **submit only this file**.
 
-To complete the homework, you should edit *only* the file
- [`Main.hs`](Main.hs), and **submit only this file**.
-
+You can access all of these files through github.
 -}
 
 module Main where
